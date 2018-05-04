@@ -1,0 +1,36 @@
+@font-face{
+	font-family:Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+
+h1{
+	font-family:Marseline;
+	font-size: 66px;
+	background-color: #F5A18F;
+	padding: 40px;
+    text-align: center;
+}
+
+}
+h2,h3{
+	color:#F5A18F;
+	
+}
+p{
+  text-align: justify;
+}
+footer{
+	background-image: url(../img/pastel.jpg);
+	padding-top: 10px;
+	padding: 20px;
+}
+img{
+	float: left;
+    text-align: center;
+
+}
+#para{
+	font-size: 20px;
+	color: #000000;
+	text-align: center;
+}

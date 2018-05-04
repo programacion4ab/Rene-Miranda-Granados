@@ -1,0 +1,38 @@
+@font-face{
+	font-family:Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+
+h1{
+	font-family:Marseline;
+	color: white;
+	font-size: 66px;
+	background-color: #71DCE5;
+	padding: 50px;
+    text-align: center;
+}
+h2{
+	color:#71DCE5;
+	text-align:left;
+}
+.num{
+	text-align: justify;
+}
+p{
+	text-align: justify;
+    font-size: 20px;
+}
+.num2{
+	text-align: center;
+
+}
+
+footer{
+	text-align: center;
+	background-color:#71DCE5;
+    padding: 25px;
+    font-size: 25px;
+}
+img{
+text-align-last: center;
+}

@@ -1,0 +1,32 @@
+@font-face{
+	font-family: Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+header{
+	background-image: url(../img/back5.jpg);
+	padding: 25px;
+ }
+h1{     
+    color:#FF8364;
+text-align-last: center;
+background-color: #ECF0F1;
+  }
+  h2{  background-color: #ECF0F1;
+    text-align-last: center;
+    color: #FF4D4D; }
+p{
+   text-align-last: center;
+   text-align-last: justify;
+   margin-right:300px;
+   margin-left: 300px;}
+
+figure{
+	text-align-last: center;
+	}
+  footer{
+    overflow: hidden;
+    text-align: center;
+    background-color: #FFA500;
+    font-size: 20px;
+  }
+	

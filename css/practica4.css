@@ -1,0 +1,37 @@
+body{
+	/*background-color: #ECECEB;*/
+	background-image: url(../img/1.jpg);
+	font-family: Century Gothic;
+}
+
+article{
+	background-color: #FBF0F0;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+h1{
+	color: white;
+	background-color: #9851EB;
+	font-size: 60px;
+	padding-bottom: 12px;
+}
+
+h2{
+	color: white;
+	background-color: #FAA9E0;
+	font-size: 40px;
+
+}
+
+h3{
+	color: white;
+	background-color: #FFBD39;
+	font-size: 26px;
+	padding: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
